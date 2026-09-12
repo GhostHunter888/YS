@@ -528,7 +528,7 @@
             "filterable": 0
         },
         {
-            "key": "版本信息",
+            "key": "版本信息9.9",
             "name": "版本 • 信息",
             "type": 3,
             "api": "csp_Market",
